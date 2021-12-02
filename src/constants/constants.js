@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Restaurant',
     description:"This minimalistic design allows the restaurant to showcase its style and its cuisine with a modern twist .",
-    image: '/images/restaurant.jpg',
+    image: '/images/Pelister.jpg',
     tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://github.com/endouw/Restaurant',
     visit: 'https://endouw.github.io/Restaurant/',
