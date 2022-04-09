@@ -23,8 +23,8 @@ export const projects = [
     description: "Front end Stack used to build a landing page for the company KOIBIRD.",
       image: '/images/Koibird.jpg',
       tags: ['HTML', 'SCSS', 'JS'],
-    source: 'https://endouw.github.io/Koibird/',
-    visit: 'https://github.com/endouw/Koibird/',
+    source: 'https://github.com/endouw/Koibird/',
+    visit: 'https://endouw.github.io/Koibird/',
     id: 2,
   },
   {
