@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'Natur',
     description: "Using a vanilla front-end fullstack I have built a landing page for outdoor activities.",
-      image: '/images/Matka.jpg',
+      image: '/images/matka.jpg',
       tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://github.com/endouw/Matka',
     visit: 'https://endouw.github.io/Matka/',
@@ -30,7 +30,7 @@ export const projects = [
   {
     title: 'Restaurant',
     description:"This minimalistic design allows the restaurant to showcase its style and its cuisine with a modern twist .",
-    image: '/images/pelister.jpg',
+    image: '/images/Pelister.jpg',
     tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://github.com/endouw/Restaurant',
     visit: 'https://endouw.github.io/Restaurant/',
