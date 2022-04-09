@@ -17,6 +17,17 @@ export const projects = [
     visit: 'https://endouw.github.io/Restaurant/',
     id: 1,
   },
+  {
+    title:'Netflix-js',
+    description:"Using React-js I recreated Netflix and many of its functionalities.",
+    image:'/images/netflix_landing_page.jpg',
+    tags: ['ReactJS', 'NodeJS', 'Fuse'],
+    source: 'https://github.com/endouw/netflix-js',
+    visit: 'https://netflix-js.vercel.app/',
+    id:2,
+    
+  },
+
   
 ];
 
