@@ -2,7 +2,7 @@ export const projects = [
   {
     title:'Netflix-js',
     description:"Using React-js I recreated Netflix and many of its functionalities.",
-    image:'/images/netflix_landing_page.jpg',
+    image:'/images/netflix.jpg',
     tags: ['ReactJS', 'NodeJS', 'Fuse'],
     source: 'https://github.com/endouw/netflix-js',
     visit: 'https://netflix-js.vercel.app/',
@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'Natur',
     description: "Using a vanilla front-end fullstack I have built a landing page for outdoor activities.",
-      image: '/images/matka.jpg',
+      image: '/images/Matka.jpg',
       tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://github.com/endouw/Matka',
     visit: 'https://endouw.github.io/Matka/',
@@ -21,7 +21,7 @@ export const projects = [
   {
     title: 'Koibird',
     description: "Front end Stack used to build a landing page for the company KOIBIRD.",
-      image: '/images/KOIBIRD_landing_page.jpg',
+      image: '/images/Koibird.jpg',
       tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://endouw.github.io/Koibird/',
     visit: 'https://github.com/endouw/Koibird/',
@@ -30,7 +30,7 @@ export const projects = [
   {
     title: 'Restaurant',
     description:"This minimalistic design allows the restaurant to showcase its style and its cuisine with a modern twist .",
-    image: '/images/Pelister.jpg',
+    image: '/images/pelister.jpg',
     tags: ['HTML', 'SCSS', 'JS'],
     source: 'https://github.com/endouw/Restaurant',
     visit: 'https://endouw.github.io/Restaurant/',
